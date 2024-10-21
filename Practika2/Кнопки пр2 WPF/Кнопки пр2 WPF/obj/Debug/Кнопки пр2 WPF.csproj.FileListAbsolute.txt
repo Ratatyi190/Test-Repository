@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\bin\Debug\Кнопки пр2 WPF.exe.config
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\bin\Debug\Кнопки пр2 WPF.exe
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\bin\Debug\Кнопки пр2 WPF.pdb
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\obj\Debug\Кнопки пр2 WPF.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\obj\Debug\Кнопки пр2 WPF_MarkupCompile.cache
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\obj\Debug\Кнопки пр2 WPF_MarkupCompile.lref
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\obj\Debug\Кнопки пр2 WPF.g.resources
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\obj\Debug\Кнопки_пр2_WPF.Properties.Resources.resources
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\obj\Debug\Кнопки пр2 WPF.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\obj\Debug\Кнопки пр2 WPF.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\obj\Debug\Кнопки пр2 WPF.exe
+C:\Users\USER\source\repos\Кнопки пр2 WPF\Кнопки пр2 WPF\obj\Debug\Кнопки пр2 WPF.pdb
